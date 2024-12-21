@@ -38,7 +38,7 @@ date,had_ride,route,coffee_shop,num_riders
 9/14/2024,TRUE,WOD,Eden,9
 9/21/2024,TRUE,ART-MBT,Vigilante,11
 9/28/2024,TRUE,CCT-RCP,Ceremony,13
-10/5/2024,TRUE,MVT Alexandria,Goat,12
+10/5/2024,TRUE,MVT Alexandria,HyperGoat,12
 10/12/2024,TRUE,WOD,Caffe Amouri,8
 10/19/2024,TRUE,MVT Alexandria,Swings,9
 10/26/2024,TRUE,WOD,Northside Social,6
@@ -49,5 +49,5 @@ date,had_ride,route,coffee_shop,num_riders
 11/30/2024,TRUE,CCT-RCP,Ceremony,10
 12/7/2024,FALSE,,,
 12/14/2024,TRUE,ART-MBT,Vigilante,11
-12/21/2024,TRUE,MVT Alexandria,National Harbor,
+12/21/2024,TRUE,MVT Alexandria,HyperGoat,14
 12/28/2024,FALSE,,,
