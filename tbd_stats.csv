@@ -1,0 +1,53 @@
+date,had_ride,route,coffee_shop,num_riders
+1/6/2024,FALSE,,,
+1/13/2024,TRUE,MVT Alexandria,Buzz Bakeshop,13
+1/20/2024,FALSE,,,
+1/27/2024,TRUE,ART-MBT,Vigilante,14
+2/3/2024,TRUE,CCT-RCP,Ceremony,16
+2/10/2024,TRUE,WOD,Eden,12
+2/17/2024,FALSE,,,
+2/24/2024,TRUE,ART-MBT,Vigilante,7
+3/2/2024,FALSE,,,
+3/9/2024,FALSE,,,
+3/16/2024,TRUE,WOD,Caboose,7
+3/23/2024,TRUE,,,6
+3/30/2024,FALSE,,,
+4/6/2024,TRUE,ART-MBT,Vigilante,6
+4/13/2024,TRUE,CCT-RCP,Ceremony,9
+4/20/2024,TRUE,MVT Alexandria,Swings,10
+4/27/2024,FALSE,,,
+5/4/2024,FALSE,,,
+5/11/2024,TRUE,WOD,Chocolate place,9
+5/18/2024,FALSE,,,
+5/25/2024,TRUE,ART-MBT,Vigilante,18
+6/1/2024,TRUE,CCT-RCP,Ceremony,10
+6/8/2024,TRUE,MVT Alexandria,Turkish Lady,6
+6/15/2024,TRUE,ART-MBT,Taco,8
+6/22/2024,TRUE,CCT-RCP,Ceremony,9
+6/29/2024,TRUE,Arlington Loop,Turkish Cart,3
+7/6/2024,TRUE,ART-MBT,Vigilante,9
+7/13/2024,TRUE,CCT-RCP,Ceremony,8
+7/20/2024,FALSE,,,
+7/27/2024,TRUE,ART-MBT,City State Brewing Co.,6
+8/3/2024,TRUE,WOD,Caboose,10
+8/10/2024,TRUE,MVT Alexandria,Swings,9
+8/17/2024,TRUE,CCT-RCP,Ceremony,14
+8/24/2024,TRUE,ART-MBT,Vigilante,8
+8/31/2024,TRUE,MVT Alexandria,Jones Pt Park,12
+9/7/2024,TRUE,MacArthur-CCT,Grace Street Coffee,12
+9/14/2024,TRUE,WOD,Eden,9
+9/21/2024,TRUE,ART-MBT,Vigilante,11
+9/28/2024,TRUE,CCT-RCP,Ceremony,13
+10/5/2024,TRUE,MVT Alexandria,Goat,12
+10/12/2024,TRUE,WOD,Caffe Amouri,8
+10/19/2024,TRUE,MVT Alexandria,Swings,9
+10/26/2024,TRUE,WOD,Northside Social,6
+11/2/2024,TRUE,CCT-RCP,Ceremony,11
+11/9/2024,TRUE,ART-MBT,Vigilante,9
+11/16/2024,TRUE,MVT Alexandria,Swings,11
+11/23/2024,TRUE,WOD,FRAMES,10
+11/30/2024,TRUE,CCT-RCP,Ceremony,10
+12/7/2024,FALSE,,,
+12/14/2024,TRUE,ART-MBT,Vigilante,11
+12/21/2024,TRUE,MVT Alexandria,National Harbor,
+12/28/2024,FALSE,,,
