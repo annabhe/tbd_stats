@@ -1,53 +1,53 @@
-date,had_ride,route,coffee_shop,num_riders,poster_date
+date,had_ride,route,coffee_shop,num_riders,miles
 1/6/2024,FALSE,,,
-1/13/2024,TRUE,MVT Alexandria,Buzz Bakeshop,13
+1/13/2024,TRUE,MVT Alexandria,Buzz Bakeshop,13,16.5
 1/20/2024,FALSE,,,
-1/27/2024,TRUE,ART-MBT,Vigilante Coffee,14
-2/3/2024,TRUE,CCT-RCP,Ceremony Coffee,16
-2/10/2024,TRUE,WOD,Eden Center,12
+1/27/2024,TRUE,ART-MBT,Vigilante Coffee,14,17.5
+2/3/2024,TRUE,CCT-RCP,Ceremony Coffee,16,19.7
+2/10/2024,TRUE,WOD,Eden Center,12,33.2
 2/17/2024,FALSE,,,
-2/24/2024,TRUE,ART-MBT,Vigilante Coffee,7
+2/24/2024,TRUE,ART-MBT,Vigilante Coffee,7,17.5
 3/2/2024,FALSE,,,
 3/9/2024,FALSE,,,
-3/16/2024,TRUE,WOD,Caboose,7
+3/16/2024,TRUE,WOD,Caboose,7,29.2
 3/23/2024,TRUE,,,6
 3/30/2024,FALSE,,,
-4/6/2024,TRUE,ART-MBT,Vigilante Coffee,6
-4/13/2024,TRUE,CCT-RCP,Ceremony Coffee,9
-4/20/2024,TRUE,MVT Alexandria,Swing's Coffee,10
+4/6/2024,TRUE,ART-MBT,Vigilante Coffee,6,17.5
+4/13/2024,TRUE,CCT-RCP,Ceremony Coffee,9,19.7
+4/20/2024,TRUE,MVT Alexandria,Swing's Coffee,10,20.3
 4/27/2024,FALSE,,,
 5/4/2024,FALSE,,,
-5/11/2024,TRUE,WOD,Lily's Chocolate,9
+5/11/2024,TRUE,WOD,Lily's Chocolate,9,28
 5/18/2024,FALSE,,,
-5/25/2024,TRUE,ART-MBT,Vigilante Coffee,18
-6/1/2024,TRUE,CCT-RCP,Ceremony Coffee,10
-6/8/2024,TRUE,MVT Alexandria,Turkish Lady,6
+5/25/2024,TRUE,ART-MBT,Vigilante Coffee,18,17.5
+6/1/2024,TRUE,CCT-RCP,Ceremony Coffee,10,19.7
+6/8/2024,TRUE,MVT Alexandria,Turkish Lady,6,16.9
 6/15/2024,TRUE,ART-MBT,Tacos A la Madre,8
-6/22/2024,TRUE,CCT-RCP,Ceremony Coffee,9
-6/29/2024,TRUE,Arlington Loop,Turkish Cart,3
-7/6/2024,TRUE,ART-MBT,Vigilante Coffee,9
-7/13/2024,TRUE,CCT-RCP,Ceremony Coffee,8
+6/22/2024,TRUE,CCT-RCP,Ceremony Coffee,9,19.7
+6/29/2024,TRUE,Arlington Loop,Turkish Cart,3,16
+7/6/2024,TRUE,ART-MBT,Vigilante Coffee,9,17.5
+7/13/2024,TRUE,CCT-RCP,Ceremony Coffee,8,19.7
 7/20/2024,FALSE,,,
 7/27/2024,TRUE,ART-MBT,City State Brewing Co.,6
-8/3/2024,TRUE,WOD,Caboose,10
-8/10/2024,TRUE,MVT Alexandria,Swing's Coffee,9
-8/17/2024,TRUE,CCT-RCP,Ceremony Coffee,14
-8/24/2024,TRUE,ART-MBT,Vigilante Coffee,8
-8/31/2024,TRUE,MVT Alexandria,Jones Pt Park,12
-9/7/2024,TRUE,MacArthur-CCT,Grace Street Coffee,12
-9/14/2024,TRUE,WOD,Eden Center,9
-9/21/2024,TRUE,ART-MBT,Vigilante Coffee,11
-9/28/2024,TRUE,CCT-RCP,Ceremony Coffee,13
-10/5/2024,TRUE,MVT Alexandria,HyperGoat,14
-10/12/2024,TRUE,WOD,Caffe Amouri,8
-10/19/2024,TRUE,MVT Alexandria,Swing's Coffee,9
-10/26/2024,TRUE,WOD,Northside Social,6
-11/2/2024,TRUE,CCT-RCP,Ceremony Coffee,11
-11/9/2024,TRUE,ART-MBT,Vigilante Coffee,9
-11/16/2024,TRUE,MVT Alexandria,Swing's Coffee,11
-11/23/2024,TRUE,WOD,FRAMES,10
-11/30/2024,TRUE,CCT-RCP,Ceremony Coffee,10
+8/3/2024,TRUE,WOD,Caboose,10,29.2
+8/10/2024,TRUE,MVT Alexandria,Swing's Coffee,9,20.4
+8/17/2024,TRUE,CCT-RCP,Ceremony Coffee,14,19.7
+8/24/2024,TRUE,ART-MBT,Vigilante Coffee,8,17.5
+8/31/2024,TRUE,MVT Alexandria,Jones Pt Park,12,16.9
+9/7/2024,TRUE,MacArthur-CCT,Grace Street Coffee,12,18.3
+9/14/2024,TRUE,WOD,Eden Center,9,33.2
+9/21/2024,TRUE,ART-MBT,Vigilante Coffee,11,17.5
+9/28/2024,TRUE,CCT-RCP,Ceremony Coffee,13,19.7
+10/5/2024,TRUE,MVT Alexandria,HyperGoat,14,19.7
+10/12/2024,TRUE,WOD,Caffe Amouri,8,33.1
+10/19/2024,TRUE,MVT Alexandria,Swing's Coffee,9,20.4
+10/26/2024,TRUE,WOD,Northside Social,6,17.4
+11/2/2024,TRUE,CCT-RCP,Ceremony Coffee,11,19.7
+11/9/2024,TRUE,ART-MBT,Vigilante Coffee,9,17.5
+11/16/2024,TRUE,MVT Alexandria,Swing's Coffee,11,20.4
+11/23/2024,TRUE,WOD,FRAMES,10,28.6
+11/30/2024,TRUE,CCT-RCP,Ceremony Coffee,10,19.7
 12/7/2024,FALSE,,,
-12/14/2024,TRUE,ART-MBT,Vigilante Coffee,11
-12/21/2024,TRUE,MVT Alexandria,HyperGoat,14
+12/14/2024,TRUE,ART-MBT,Vigilante Coffee,11,17.5
+12/21/2024,TRUE,MVT Alexandria,HyperGoat,14,19.7
 12/28/2024,FALSE,,,
