@@ -1,53 +1,54 @@
-date,had_ride,route,is_bootleg,coffee_shop,num_riders,miles
-1/4/25,TRUE,WOD,FALSE,Rare Bird,10,
-1/11/25,FALSE,,,,,
-1/18/25,TRUE,,,,8,
-1/25/25,FALSE,,,,,
-2/1/25,TRUE,,,,14,
-2/8/25,FALSE,,,,,
-2/15/25,TRUE,,,,6,
-2/22/25,TRUE,,,,8,
-3/1/25,TRUE,,,,8,
-3/8/25,TRUE,,,,9,
-3/15/25,TRUE,,,,14,
-3/22/25,TRUE,,,,12,
-3/29/25,TRUE,,,,14,
-4/5/25,TRUE,,FALSE,Misha's,10,
-4/12/25,TRUE,,FALSE,,10,
-4/19/25,TRUE,ART-MBT,FALSE,Vigilante,10,
-4/25/25,TRUE,,,,10,
-5/3/25,TRUE,,,Swing's,8,
-5/10/25,TRUE,Military-WOD,,Rare Bird,9,
-5/17/25,TRUE,ART,,Mt Rainier Farmers Market,11,
-5/24/25,FALSE,WOD,FALSE,Monk's,13,
-5/31/25,TRUE,CCT-RCP,,Ceremony,10,
-6/7/25,TRUE,,,,14,
-6/14/25,FALSE,,,,,
-6/21/25,TRUE,CCT-RCP,,Ceremony,6,
-6/28/25,TRUE,RCP-MBT,,Donut Run,21,
-7/5/25,TRUE,ART-MBT,,Vigilante,8,
-7/12/25,TRUE,,,Hypergoat,19,
-7/19/25,TRUE,WOD,,Frames,11,
-7/26/25,TRUE,CCT-RCP,,Ceremony,21,
-8/2/25,TRUE,ART-MBT,,Vigilante,18,
-8/9/25,FALSE,,TRUE,,,
-8/16/25,TRUE,WOD,,Rare Bird,22,
-8/23/25,TRUE,,,Swing's,16,
-8/30/25,FALSE,,TRUE,,,
-9/6/25,TRUE,,,Bethesda Bagel,11,
-9/13/25,TRUE,Oxen Hill,,Swing's,16,
-9/20/25,TRUE,CCT-RCP,,Ceremony,11,
-9/27/25,,,,,,
-10/4/25,,,,,,
-10/11/25,,,,,,
-10/18/25,,,,,,
-10/25/25,,,,,,
-11/1/25,,,,,,
-11/8/25,,,,,,
-11/15/25,,,,,,
-11/22/25,,,,,,
-11/29/25,,,,,,
-12/6/25,,,,,,
-12/13/25,,,,,,
-12/20/25,,,,,,
-12/27/25,,,,,,
+﻿date,had_ride,start,route,is_bootleg,coffee_shop,num_riders,miles
+1/4/25,TRUE,CCT Trailhead,MVT-WOD,FALSE,Rare Bird,10,18
+1/11/25,FALSE,,,,,,
+1/18/25,TRUE,CCT Trailhead,CCT-RCP,FALSE,Ceremony,8,20
+1/25/25,FALSE,,,,,,
+2/1/25,TRUE,CCT Trailhead,CCT-RCP,FALSE,Olivia's Kitchen,14,20
+2/8/25,FALSE,,,,,,
+2/15/25,TRUE,Gravelley Point,MVT-Crystal City,FALSE,Swing's,6,19
+2/22/25,TRUE,Navy Yard,ART-MBT,FALSE,Vigilante,8,16
+3/1/25,TRUE,Gravelley Point,MVT-WOD,FALSE,Rare Bird,8,18
+3/8/25,TRUE,Gravelley Point,MVT-Crystal City,FALSE,Hypergoat,9,16
+3/15/25,TRUE,Navy Yard,ART-MBT,FALSE,Vigilante,14,19
+3/22/25,TRUE,CCT Trailhead,CCT-RCP,FALSE,Ceremony,12,20
+3/29/25,TRUE,Gateway Park,Military-WOD,FALSE,Coffee Republic,14,28
+4/5/25,TRUE,Gravelley Point,MVT-Crystal City,FALSE,Misha's,10,17
+4/12/25,TRUE,Gateway Park,MVT-WOD,FALSE,Frames,10,33
+4/19/25,TRUE,Navy Yard,ART-MBT,FALSE,Vigilante,10,16
+4/25/25,TRUE,CCT Trailhead,CCT-RCP,FALSE,Ceremony,10,20
+5/3/25,TRUE,Gravelley Point,MVT-Crystal City,FALSE,Swing's,8,19
+5/10/25,TRUE,Gateway Park,Military-WOD-MVT,FALSE,Rare Bird,9,25
+5/17/25,TRUE,Navy Yard,ART-MBT,FALSE,Mt Rainier Farmers Market,11,16
+5/24/25,FALSE,Gravelley Point,MVT-WOD,FALSE,Monk's,13,97
+5/31/25,TRUE,CCT Trailhead,CCT-RCP,FALSE,Ceremony,10,20
+6/7/25,TRUE,Navy Yard,Oxon Hill-Crystal City,FALSE,Misha's,14,18
+6/14/25,FALSE,,,,,,
+6/21/25,TRUE,CCT Trailhead,CCT-RCP,FALSE,Ceremony,6,20
+6/28/25,TRUE,Dupont Circle,RCP-MBT,FALSE,Donut Run,21,16
+7/5/25,TRUE,Navy Yard,ART-MBT,FALSE,Vigilante,8,16
+7/12/25,TRUE,Dupont Circle,MVT-Crystal City,FALSE,Hypergoat,19,15
+7/19/25,TRUE,Gateway Park,Military-WOD,FALSE,Frames,11,28
+7/26/25,TRUE,CCT Trailhead,CCT-RCP,FALSE,Ceremony,21,20
+8/2/25,TRUE,Navy Yard,ART-Sligo-MBT,FALSE,Vigilante,18,33
+8/9/25,FALSE,CCT Trailhead,CCT-RCP,TRUE,Ceremony,2,20
+8/16/25,TRUE,Arlington Cemetery,MVT-WOD,FALSE,Rare Bird,22,20
+8/23/25,TRUE,Gravelley Point,MVT-Crystal City,FALSE,Swing's,16,19
+8/30/25,FALSE,Gateway Park,MVT-WOD,TRUE,Weenie Beenie,8,33
+9/6/25,TRUE,CCT Trailhead,CCT-RCP,FALSE,Bethesda Bagel,11,20
+9/13/25,TRUE,Navy Yard,Oxon Hill-Crystal City,FALSE,Swing's,16,18
+9/20/25,TRUE,CCT Trailhead,CCT-RCP,FALSE,Ceremony,11,20
+9/27/25,TRUE,Grace Street Coffee,RCP-Sligo-ART,FALSE,Vigilante,9,33
+10/4/25,TRUE,Gravelley Point,MVT-Crystal City,FALSE,Buzz Bakeshop,12,19
+10/11/25,TRUE,Gateway Park,Military-WOD,FALSE,Frames,11,28
+10/18/25,TRUE,Gateway Park,MVT-Crystal City,FALSE,Hypergoat,9,19
+10/25/25,TRUE,CCT Trailhead,CCT-RCP,FALSE,Ceremony,14,20
+11/1/25,TRUE,CCT Trailhead,CCT-RCP,FALSE,Coffefi,6,20
+11/2/25,TRUE,Gravelley Point,NOVA Loop,FALSE,Myung Ga Kimbap,10,55
+11/8/25,TRUE,CCT Trailhead,CCT-RCP,FALSE,Ceremony,11,20
+11/15/25,TRUE,CCT Trailhead,CCT-RCP,TRUE,Grace Street Coffee,5,20
+11/22/25,FALSE,,,,,,
+11/29/25,FALSE,,,,,,
+12/6/25,TRUE,Navy Yard,Oxon Hill-Crystal City,FALSE,St. Elmo's,6,18
+12/13/25,,,,,,,
+12/20/25,,,,,,,
+12/27/25,,,,,,,
