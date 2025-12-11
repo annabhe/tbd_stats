@@ -1,45 +1,45 @@
-﻿date,official_ride,start,route,coffee_shop,num_riders,miles
-1/4/25,TRUE,CCT Trailhead,MVT-WOD,Rare Bird,10,18
-1/18/25,TRUE,CCT Trailhead,CCT-RCP,Ceremony,8,20
-2/1/25,TRUE,CCT Trailhead,CCT-RCP,Olivia's Kitchen,14,20
-2/15/25,TRUE,Gravelley Point,MVT-Crystal City,Swing's,6,19
-2/22/25,TRUE,Navy Yard,ART-MBT,Vigilante,8,16
-3/1/25,TRUE,Gravelley Point,MVT-WOD,Rare Bird,8,18
-3/8/25,TRUE,Gravelley Point,MVT-Crystal City,Hypergoat,9,16
-3/15/25,TRUE,Navy Yard,ART-MBT,Vigilante,14,19
-3/22/25,TRUE,CCT Trailhead,CCT-RCP,Ceremony,12,20
-3/29/25,TRUE,Gateway Park,Military-WOD,Coffee Republic,14,28
-4/5/25,TRUE,Gravelley Point,MVT-Crystal City,Misha's,10,17
-4/12/25,TRUE,Gateway Park,MVT-WOD,Frames,10,33
-4/19/25,TRUE,Navy Yard,ART-MBT,Vigilante,10,16
-4/25/25,TRUE,CCT Trailhead,CCT-RCP,Ceremony,10,20
-5/3/25,TRUE,Gravelley Point,MVT-Crystal City,Swing's,8,19
-5/10/25,TRUE,Gateway Park,Military-WOD-MVT,Rare Bird,9,25
-5/17/25,TRUE,Navy Yard,ART-MBT,Mt Rainier Farmers Market,11,16
-5/24/25,TRUE,Gravelley Point,MVT-WOD,Monk's,13,97
-5/31/25,TRUE,CCT Trailhead,CCT-RCP,Ceremony,10,20
-6/7/25,TRUE,Navy Yard,Oxon Hill-Crystal City,Misha's,14,18
-6/21/25,TRUE,CCT Trailhead,CCT-RCP,Ceremony,7,20
-6/28/25,TRUE,Dupont Circle,RCP-MBT,Donut Run,21,16
-7/5/25,TRUE,Navy Yard,ART-MBT,Vigilante,8,16
-7/12/25,TRUE,Dupont Circle,MVT-Crystal City,Hypergoat,19,15
-7/19/25,TRUE,Gateway Park,Military-WOD,Frames,11,28
-7/26/25,TRUE,CCT Trailhead,CCT-RCP,Ceremony,21,20
-8/2/25,TRUE,Navy Yard,ART-Sligo-MBT,Vigilante,18,33
-8/9/25,FALSE,CCT Trailhead,CCT-RCP,Ceremony,2,20
-8/16/25,TRUE,Arlington Cemetery,MVT-WOD,Rare Bird,22,20
-8/23/25,TRUE,Gravelley Point,MVT-Crystal City,Swing's,16,19
-8/30/25,FALSE,Gateway Park,MVT-WOD,Weenie Beenie,8,33
-9/6/25,TRUE,CCT Trailhead,CCT-RCP,Bethesda Bagel,11,20
-9/13/25,TRUE,Navy Yard,Oxon Hill-Crystal City,Swing's,16,18
-9/20/25,TRUE,CCT Trailhead,CCT-RCP,Ceremony,11,20
-9/27/25,TRUE,Grace Street Coffee,RCP-Sligo-ART,Vigilante,9,33
-10/4/25,TRUE,Gravelley Point,MVT-Crystal City,Buzz Bakeshop,12,19
-10/11/25,TRUE,Gateway Park,Military-WOD,Frames,11,28
-10/18/25,TRUE,Gateway Park,MVT-Crystal City,Hypergoat,9,19
-10/25/25,TRUE,CCT Trailhead,CCT-RCP,Ceremony,14,20
-11/1/25,TRUE,CCT Trailhead,CCT-RCP,Coffefi,6,20
-11/2/25,TRUE,Gravelley Point,NOVA Loop,Myung Ga Kimbap,10,55
-11/8/25,TRUE,CCT Trailhead,CCT-RCP,Ceremony,11,20
-11/15/25,FALSE,CCT Trailhead,CCT-RCP,Grace Street Coffee,5,20
-12/6/25,TRUE,Navy Yard,Oxon Hill-Crystal City,St. Elmo's,6,18
+﻿date,official_ride,start,route,full_route,coffee_shop,num_riders,miles,selfie
+1/4/25,TRUE,CCT Trailhead,WOD,MVT-WOD,Rare Bird,10,18,
+1/18/25,TRUE,CCT Trailhead,CCT-RCP,CCT-RCP,Ceremony,8,20,
+2/1/25,TRUE,CCT Trailhead,CCT-RCP,CCT-RCP,Olivia's Kitchen,14,20,
+2/15/25,TRUE,Gravelley Point,Alexandria,MVT-Crystal City,Swing's,6,19,
+2/22/25,TRUE,Navy Yard,ART-MBT,ART-MBT,Vigilante,8,16,
+3/1/25,TRUE,Gravelley Point,WOD,MVT-WOD,Rare Bird,8,18,
+3/8/25,TRUE,Gravelley Point,Alexandria,MVT-Crystal City,Hypergoat,9,16,
+3/15/25,TRUE,Navy Yard,ART-MBT,ART-MBT,Vigilante,14,19,
+3/22/25,TRUE,CCT Trailhead,CCT-RCP,CCT-RCP,Ceremony,12,20,
+3/29/25,TRUE,Gateway Park,WOD,Military-WOD,Coffee Republic,14,28,
+4/5/25,TRUE,Gravelley Point,Alexandria,MVT-Crystal City,Misha's,10,17,
+4/12/25,TRUE,Gateway Park,WOD,MVT-WOD,Frames,10,33,
+4/19/25,TRUE,Navy Yard,ART-MBT,ART-MBT,Vigilante,10,16,
+4/25/25,TRUE,CCT Trailhead,CCT-RCP,CCT-RCP,Ceremony,10,20,
+5/3/25,TRUE,Gravelley Point,Alexandria,MVT-Crystal City,Swing's,8,19,
+5/10/25,TRUE,Gateway Park,WOD,Military-WOD-MVT,Rare Bird,9,25,
+5/17/25,TRUE,Navy Yard,ART-MBT,ART-MBT,Mt Rainier Farmers Market,11,16,TRUE
+5/24/25,TRUE,Gravelley Point,WOD,MVT-WOD,Monk's,13,97,TRUE
+5/31/25,TRUE,CCT Trailhead,CCT-RCP,CCT-RCP,Ceremony,10,20,
+6/7/25,TRUE,Navy Yard,Alexandria,Oxon Hill-Crystal City,Misha's,14,18,
+6/21/25,TRUE,CCT Trailhead,CCT-RCP,CCT-RCP,Ceremony,7,20,
+6/28/25,TRUE,Dupont Circle,RCP-MBT,RCP-MBT,Donut Run,21,16,
+7/5/25,TRUE,Navy Yard,ART-MBT,ART-MBT,Vigilante,8,16,TRUE
+7/12/25,TRUE,Dupont Circle,Alexandria,MVT-Crystal City,Hypergoat,19,15,
+7/19/25,TRUE,Gateway Park,WOD,Military-WOD,Frames,11,28,
+7/26/25,TRUE,CCT Trailhead,CCT-RCP,CCT-RCP,Ceremony,21,20,
+8/2/25,TRUE,Navy Yard,ART-MBT,ART-Sligo-MBT,Vigilante,18,33,
+8/9/25,FALSE,CCT Trailhead,CCT-RCP,CCT-RCP,Ceremony,2,20,
+8/16/25,TRUE,Arlington Cemetery,WOD,MVT-WOD,Rare Bird,22,20,
+8/23/25,TRUE,Gravelley Point,Alexandria,MVT-Crystal City,Swing's,16,19,
+8/30/25,FALSE,Gateway Park,WOD,MVT-WOD,Weenie Beenie,8,33,
+9/6/25,TRUE,CCT Trailhead,CCT-RCP,CCT-RCP,Bethesda Bagel,11,20,
+9/13/25,TRUE,Navy Yard,Alexandria,Oxon Hill-Crystal City,Swing's,16,18,
+9/20/25,TRUE,CCT Trailhead,CCT-RCP,CCT-RCP,Ceremony,10,20,
+9/27/25,TRUE,Grace Street Coffee,ART-MBT,RCP-Sligo-ART,Vigilante,9,33,
+10/4/25,TRUE,Gravelley Point,Alexandria,MVT-Crystal City,Buzz Bakeshop,12,19,
+10/11/25,TRUE,Gateway Park,WOD,Military-WOD,Frames,11,28,
+10/18/25,TRUE,Gateway Park,Alexandria,MVT-Crystal City,Hypergoat,9,19,
+10/25/25,TRUE,CCT Trailhead,CCT-RCP,CCT-RCP,Ceremony,14,20,
+11/1/25,TRUE,CCT Trailhead,CCT-RCP,CCT-RCP,Coffefi,6,20,
+11/2/25,TRUE,Gravelley Point,NOVA Loop,NOVA Loop,Myung Ga Kimbap,10,55,
+11/8/25,TRUE,CCT Trailhead,CCT-RCP,CCT-RCP,Ceremony,11,20,
+11/15/25,FALSE,CCT Trailhead,CCT-RCP,CCT-RCP,Grace Street Coffee,5,20,
+12/6/25,TRUE,Navy Yard,Alexandria,Oxon Hill-Crystal City,St. Elmo's,6,18,
