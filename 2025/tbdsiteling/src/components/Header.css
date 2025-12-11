@@ -1,0 +1,51 @@
+.header-container {
+  text-align: center;
+  padding: 40px 0;
+}
+
+/* Y2K shiny gradient */
+.y2k-title {
+  font-family: "Comic Sans MS", "Arial Rounded MT Bold", sans-serif;
+  background: linear-gradient(90deg, #ff0073, #00eaff, #00ff51);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  text-shadow: 0 0 8px #fff, 0 0 15px #ff00ff;
+  font-size: 4rem;
+  font-weight: 900;
+}
+
+/* Spin + pulse combo */
+.y2k-spin {
+  display: inline-block;
+  animation: spinSlow 6s infinite linear, pulse 2s infinite ease-in-out;
+}
+
+@keyframes spinSlow {
+  from {
+    transform: rotate(-5deg);
+  }
+  to {
+    transform: rotate(5deg);
+  }
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.07);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* Optional glowy input field */
+.name-input input {
+  border-radius: 12px;
+  border: 2px solid #ffe600;
+  background-color: #111;
+  color: #ffe600;
+}
